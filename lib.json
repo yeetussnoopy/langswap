@@ -1,0 +1,20 @@
+{
+    "id": "langswap",
+    "authors": [
+        "Yeetus"
+    ],
+    "config": {
+        "default_language": "ru"
+    },
+    "version": "v1.1.0",
+    "engineVer": "v0.4.0",
+    "keybinds": [
+        {
+            "name": "change langs",
+            "id": "langs",
+            "keys": ["a"]
+        }
+    ]
+
+    
+}
