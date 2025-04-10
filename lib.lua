@@ -45,7 +45,7 @@ function lib:loadTranslations(cutscene_namer, stage)
     Kristal.Console:log("name: " .. cutscene_name)
 
     --maybe preloading all the cutscenes...?
-    --but im a lazy loading hater :heartbreak:
+    --but im a lazy loading lover :heartbreak:
 
     --[[ for path, lib in Kristal.iterLibraries() do
             local full_path = "mods/" .. Mod.info.id .. "/libraries/"..path.."/translations/"..cutscene_name..".json"
